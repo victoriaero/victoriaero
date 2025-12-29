@@ -1,4 +1,4 @@
-# Hello, I'm Victoria! 👋
+# Hello, I'm Victoria! 😊
 
 I'm an undergraduate Computer Science student at UFMG, currently in my fourth year (8th semester). I'm a Research Assistant at Speed Lab, where I work with data mining and machine learning.
 
